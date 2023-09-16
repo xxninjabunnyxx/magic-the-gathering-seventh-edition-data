@@ -1,0 +1,115 @@
+---
+object: card
+id: c1bcde1e-d379-4b0c-8e59-01fbb3217f04
+oracle_id: e740ce2f-2134-473c-afa1-1b6d2d1e38ef
+multiverse_ids:
+- 11302
+mtgo_id: 15554
+mtgo_foil_id: 15555
+tcgplayer_id: 2921
+cardmarket_id: 3011
+name: Giant Spider
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/c1bcde1e-d379-4b0c-8e59-01fbb3217f04
+scryfall_uri: https://scryfall.com/card/7ed/249/giant-spider?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.jpg?1562247231
+  normal: https://cards.scryfall.io/normal/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.jpg?1562247231
+  large: https://cards.scryfall.io/large/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.jpg?1562247231
+  png: https://cards.scryfall.io/png/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.png?1562247231
+  art_crop: https://cards.scryfall.io/art_crop/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.jpg?1562247231
+  border_crop: https://cards.scryfall.io/border_crop/front/c/1/c1bcde1e-d379-4b0c-8e59-01fbb3217f04.jpg?1562247231
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Spider
+oracle_text: Reach (This creature can block creatures with flying.)
+power: '2'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c1bcde1e-d379-4b0c-8e59-01fbb3217f04/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae740ce2f-2134-473c-afa1-1b6d2d1e38ef&unique=prints
+collector_number: '249'
+digital: false
+rarity: common
+flavor_text: |-
+  Watching the spider's web
+  —Llanowar expression meaning "focusing on the wrong thing"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ray Lago
+artist_ids:
+- a72b1f7b-b72a-4e8b-bc97-d6720c0e5837
+illustration_id: 78b4795f-7b5f-40f6-8dbc-7f54dbe989b6
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14558
+penny_rank: 12090
+prices:
+  usd: '0.05'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=11302
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Giant+Spider
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2921?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15554?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

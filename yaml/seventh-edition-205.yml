@@ -1,0 +1,114 @@
+---
+object: card
+id: e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8
+oracle_id: c000811e-bde7-4840-a3bb-9714d5c977eb
+multiverse_ids:
+- 15812
+mtgo_id: 15728
+mtgo_foil_id: 15729
+tcgplayer_id: 3015
+cardmarket_id: 2967
+name: Orcish Artillery
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8
+scryfall_uri: https://scryfall.com/card/7ed/205/orcish-artillery?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.jpg?1595438219
+  normal: https://cards.scryfall.io/normal/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.jpg?1595438219
+  large: https://cards.scryfall.io/large/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.jpg?1595438219
+  png: https://cards.scryfall.io/png/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.png?1595438219
+  art_crop: https://cards.scryfall.io/art_crop/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.jpg?1595438219
+  border_crop: https://cards.scryfall.io/border_crop/front/e/5/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8.jpg?1595438219
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: Creature — Orc Warrior
+oracle_text: "{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you."
+power: '1'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e5b13fc4-e26a-4a7c-bde2-ea3626da6aa8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac000811e-bde7-4840-a3bb-9714d5c977eb&unique=prints
+collector_number: '205'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Ready . . . aim . . . fire!"
+  "Ow!"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: 0fcc9e1c-19f5-4bdb-a554-ed036aae75cf
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15075
+penny_rank: 12823
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15812
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orcish+Artillery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orcish+Artillery&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orcish+Artillery
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3015?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orcish+Artillery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15728?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

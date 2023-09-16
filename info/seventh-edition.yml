@@ -1,0 +1,21 @@
+---
+object: set
+id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+code: 7ed
+mtgo_code: 7e
+arena_code: 7e
+tcgplayer_id: 2
+name: Seventh Edition
+uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+scryfall_uri: https://scryfall.com/sets/7ed
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A7ed&unique=prints
+released_at: '2001-04-11'
+set_type: core
+card_count: 708
+printed_size: 350
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/7ed.svg?1694404800

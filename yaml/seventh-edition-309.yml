@@ -1,0 +1,112 @@
+---
+object: card
+id: 9b4de9d3-56b2-40d9-adca-4fd2dadaaad9
+oracle_id: 02500f21-6e15-423e-93ff-891e09fe9904
+multiverse_ids:
+- 15854
+mtgo_id: 15696
+mtgo_foil_id: 15697
+tcgplayer_id: 2998
+cardmarket_id: 3071
+name: Moss Diamond
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9
+scryfall_uri: https://scryfall.com/card/7ed/309/moss-diamond?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.jpg?1562244074
+  normal: https://cards.scryfall.io/normal/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.jpg?1562244074
+  large: https://cards.scryfall.io/large/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.jpg?1562244074
+  png: https://cards.scryfall.io/png/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.png?1562244074
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.jpg?1562244074
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9.jpg?1562244074
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  Moss Diamond enters the battlefield tapped.
+  {T}: Add {G}.
+colors: []
+color_identity:
+- G
+keywords: []
+produced_mana:
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9b4de9d3-56b2-40d9-adca-4fd2dadaaad9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02500f21-6e15-423e-93ff-891e09fe9904&unique=prints
+collector_number: '309'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Martin
+artist_ids:
+- 996ad764-4ae0-4952-8bb5-5a75c9d68275
+illustration_id: f6e17c3b-b06f-483f-a98e-158b849fef90
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2223
+penny_rank: 7231
+prices:
+  usd: '0.18'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15854
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Moss+Diamond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Moss+Diamond&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Moss+Diamond
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2998?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Moss+Diamond&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15696?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,111 @@
+---
+object: card
+id: 5b18ce34-2ff4-4662-aab3-24c10e9657cc
+oracle_id: ec7ae9ed-dc5b-47ed-a4ad-086f3c7c377c
+multiverse_ids:
+- 11232
+mtgo_id: 15458
+mtgo_foil_id: 15459
+tcgplayer_id: 2870
+cardmarket_id: 2831
+name: Deflection
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/5b18ce34-2ff4-4662-aab3-24c10e9657cc
+scryfall_uri: https://scryfall.com/card/7ed/69/deflection?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.jpg?1562238174
+  normal: https://cards.scryfall.io/normal/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.jpg?1562238174
+  large: https://cards.scryfall.io/large/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.jpg?1562238174
+  png: https://cards.scryfall.io/png/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.png?1562238174
+  art_crop: https://cards.scryfall.io/art_crop/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.jpg?1562238174
+  border_crop: https://cards.scryfall.io/border_crop/front/5/b/5b18ce34-2ff4-4662-aab3-24c10e9657cc.jpg?1562238174
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Instant
+oracle_text: Change the target of target spell with a single target.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5b18ce34-2ff4-4662-aab3-24c10e9657cc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec7ae9ed-dc5b-47ed-a4ad-086f3c7c377c&unique=prints
+collector_number: '69'
+digital: false
+rarity: rare
+flavor_text: |-
+  "You've thrown your net at the wrong fish."
+  —The Lord of Atlantis
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Easley
+artist_ids:
+- da17055e-693c-461a-b132-67dd88b42ca6
+illustration_id: 9a29fd38-3d9c-4d07-a9d4-864f93d3e8ea
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18250
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=11232
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deflection
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2870?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deflection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15458?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

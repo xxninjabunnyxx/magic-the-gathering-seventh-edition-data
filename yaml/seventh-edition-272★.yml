@@ -1,0 +1,105 @@
+---
+object: card
+id: ce87747f-4565-43f2-b966-8bef41ebbe03
+oracle_id: 9eb2912d-2130-49f2-9529-b58fa5a97a15
+multiverse_ids: []
+tcgplayer_id: 3102
+name: Stream of Life
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/ce87747f-4565-43f2-b966-8bef41ebbe03
+scryfall_uri: https://scryfall.com/card/7ed/272%E2%98%85/stream-of-life?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.jpg?1675830464
+  normal: https://cards.scryfall.io/normal/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.jpg?1675830464
+  large: https://cards.scryfall.io/large/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.jpg?1675830464
+  png: https://cards.scryfall.io/png/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.png?1675830464
+  art_crop: https://cards.scryfall.io/art_crop/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.jpg?1675830464
+  border_crop: https://cards.scryfall.io/border_crop/front/c/e/ce87747f-4565-43f2-b966-8bef41ebbe03.jpg?1675830464
+mana_cost: "{X}{G}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Target player gains X life.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ce87747f-4565-43f2-b966-8bef41ebbe03/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9eb2912d-2130-49f2-9529-b58fa5a97a15&unique=prints
+collector_number: 272★
+digital: false
+rarity: common
+watermark: wotc
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andrew Goldhawk
+artist_ids:
+- f4a65a04-9e2e-4541-8d0e-f34e9517f092
+illustration_id: 7ddd9322-41dc-4f06-9de4-7ec5eba0d77b
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14524
+penny_rank: 11532
+prices:
+  usd: 
+  usd_foil: '4.49'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stream+of+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stream+of+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stream+of+Life
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3102?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stream+of+Life&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stream+of+Life&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

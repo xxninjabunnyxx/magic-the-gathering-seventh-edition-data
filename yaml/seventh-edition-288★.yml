@@ -1,0 +1,105 @@
+---
+object: card
+id: fdf0d1da-7c16-4a9a-a71e-4805bd0c0995
+oracle_id: b13f97b3-56ae-4131-a93b-b162c8ff7cca
+multiverse_ids: []
+tcgplayer_id: 2844
+name: Caltrops
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995
+scryfall_uri: https://scryfall.com/card/7ed/288%E2%98%85/caltrops?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.jpg?1675830486
+  normal: https://cards.scryfall.io/normal/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.jpg?1675830486
+  large: https://cards.scryfall.io/large/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.jpg?1675830486
+  png: https://cards.scryfall.io/png/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.png?1675830486
+  art_crop: https://cards.scryfall.io/art_crop/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.jpg?1675830486
+  border_crop: https://cards.scryfall.io/border_crop/front/f/d/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995.jpg?1675830486
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: Whenever a creature attacks, Caltrops deals 1 damage to it.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fdf0d1da-7c16-4a9a-a71e-4805bd0c0995/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab13f97b3-56ae-4131-a93b-b162c8ff7cca&unique=prints
+collector_number: 288★
+digital: false
+rarity: uncommon
+watermark: wotc
+flavor_text: The Eastern Paladin knew how highly his southern rival valued horses,
+  so he gleefully prepared a suitable welcome.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Peterson
+artist_ids:
+- 0fc26d3b-4c0e-41d1-8eb3-286ab55a2328
+illustration_id: d0e9720d-44d0-414b-9604-8713da3a3b64
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6442
+penny_rank: 6806
+prices:
+  usd: 
+  usd_foil: '21.74'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Caltrops&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Caltrops&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Caltrops
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2844?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Caltrops&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Caltrops&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,117 @@
+---
+object: card
+id: cc73761c-6d1a-4466-9be1-b350a1dcc48a
+oracle_id: c7ecb785-2bfc-4953-b356-db7c27406dbb
+multiverse_ids:
+- 12977
+mtgo_id: 15776
+mtgo_foil_id: 15777
+tcgplayer_id: 3042
+cardmarket_id: 2794
+name: Razorfoot Griffin
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/cc73761c-6d1a-4466-9be1-b350a1dcc48a
+scryfall_uri: https://scryfall.com/card/7ed/32/razorfoot-griffin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.jpg?1562247788
+  normal: https://cards.scryfall.io/normal/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.jpg?1562247788
+  large: https://cards.scryfall.io/large/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.jpg?1562247788
+  png: https://cards.scryfall.io/png/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.png?1562247788
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.jpg?1562247788
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/cc73761c-6d1a-4466-9be1-b350a1dcc48a.jpg?1562247788
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Griffin
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  First strike (This creature deals combat damage before creatures without first strike.)
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cc73761c-6d1a-4466-9be1-b350a1dcc48a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7ecb785-2bfc-4953-b356-db7c27406dbb&unique=prints
+collector_number: '32'
+digital: false
+rarity: common
+flavor_text: Like a meteor, it strikes from above without warning. Unlike a meteor,
+  it then carries you off and eats you.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: ceb980ef-4614-4316-8856-b35e2943ed80
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17226
+penny_rank: 12851
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12977
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Razorfoot+Griffin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Razorfoot+Griffin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Razorfoot+Griffin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3042?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Razorfoot+Griffin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15776?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

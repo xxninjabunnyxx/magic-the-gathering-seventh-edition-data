@@ -1,0 +1,109 @@
+---
+object: card
+id: cfb23039-0f38-44f9-845d-b76ca85e4761
+oracle_id: 19e09405-3294-4f98-a18f-60cf0a8a2e4e
+multiverse_ids: []
+tcgplayer_id: 2936
+name: Granite Grip
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/cfb23039-0f38-44f9-845d-b76ca85e4761
+scryfall_uri: https://scryfall.com/card/7ed/195%E2%98%85/granite-grip?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.jpg?1675830362
+  normal: https://cards.scryfall.io/normal/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.jpg?1675830362
+  large: https://cards.scryfall.io/large/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.jpg?1675830362
+  png: https://cards.scryfall.io/png/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.png?1675830362
+  art_crop: https://cards.scryfall.io/art_crop/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.jpg?1675830362
+  border_crop: https://cards.scryfall.io/border_crop/front/c/f/cfb23039-0f38-44f9-845d-b76ca85e4761.jpg?1675830362
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +1/+0 for each Mountain you control.
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cfb23039-0f38-44f9-845d-b76ca85e4761/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A19e09405-3294-4f98-a18f-60cf0a8a2e4e&unique=prints
+collector_number: 195★
+digital: false
+rarity: common
+watermark: wotc
+flavor_text: '"Let me introduce you to Rocky."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ray Lago
+artist_ids:
+- a72b1f7b-b72a-4e8b-bc97-d6720c0e5837
+illustration_id: 27b0685a-369e-41c7-8982-bca5275c0dbe
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11152
+penny_rank: 8722
+prices:
+  usd: 
+  usd_foil: '11.87'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Granite+Grip&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Granite+Grip&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Granite+Grip
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2936?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Granite+Grip&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Granite+Grip&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

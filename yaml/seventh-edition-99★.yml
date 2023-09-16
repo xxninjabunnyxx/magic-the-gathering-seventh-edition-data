@@ -1,0 +1,108 @@
+---
+object: card
+id: dbad5469-0b78-476f-8573-22fb117392ab
+oracle_id: cd8ae9f2-edac-473a-8846-c08219e617c3
+multiverse_ids: []
+tcgplayer_id: 3096
+name: Steal Artifact
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/dbad5469-0b78-476f-8573-22fb117392ab
+scryfall_uri: https://scryfall.com/card/7ed/99%E2%98%85/steal-artifact?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.jpg?1675830229
+  normal: https://cards.scryfall.io/normal/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.jpg?1675830229
+  large: https://cards.scryfall.io/large/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.jpg?1675830229
+  png: https://cards.scryfall.io/png/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.png?1675830229
+  art_crop: https://cards.scryfall.io/art_crop/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.jpg?1675830229
+  border_crop: https://cards.scryfall.io/border_crop/front/d/b/dbad5469-0b78-476f-8573-22fb117392ab.jpg?1675830229
+mana_cost: "{2}{U}{U}"
+cmc: 4.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant artifact
+  You control enchanted artifact.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dbad5469-0b78-476f-8573-22fb117392ab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd8ae9f2-edac-473a-8846-c08219e617c3&unique=prints
+collector_number: 99★
+digital: false
+rarity: uncommon
+watermark: wotc
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Peter Bollinger
+artist_ids:
+- 3168b530-3323-4ac7-b01f-50912b3a1c9c
+illustration_id: 10875fec-a01d-4c62-8614-5399e993f35f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12940
+penny_rank: 10100
+prices:
+  usd: 
+  usd_foil: '12.21'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Steal+Artifact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Steal+Artifact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Steal+Artifact
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3096?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Steal+Artifact&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Steal+Artifact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: 807e5102-1fab-4ff4-aad8-94defbbb8a6b
+oracle_id: 387b6b07-a283-412d-94c3-f7f1dc76e858
+multiverse_ids:
+- 13185
+mtgo_id: 15642
+mtgo_foil_id: 15643
+tcgplayer_id: 2970
+cardmarket_id: 2961
+name: Lava Axe
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/807e5102-1fab-4ff4-aad8-94defbbb8a6b
+scryfall_uri: https://scryfall.com/card/7ed/199/lava-axe?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.jpg?1562241656
+  normal: https://cards.scryfall.io/normal/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.jpg?1562241656
+  large: https://cards.scryfall.io/large/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.jpg?1562241656
+  png: https://cards.scryfall.io/png/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.png?1562241656
+  art_crop: https://cards.scryfall.io/art_crop/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.jpg?1562241656
+  border_crop: https://cards.scryfall.io/border_crop/front/8/0/807e5102-1fab-4ff4-aad8-94defbbb8a6b.jpg?1562241656
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Lava Axe deals 5 damage to target player or planeswalker.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/807e5102-1fab-4ff4-aad8-94defbbb8a6b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A387b6b07-a283-412d-94c3-f7f1dc76e858&unique=prints
+collector_number: '199'
+digital: false
+rarity: common
+flavor_text: '"Catch!"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ray Lago
+artist_ids:
+- a72b1f7b-b72a-4e8b-bc97-d6720c0e5837
+illustration_id: 11568d1f-d512-4e70-89f2-796670d133ed
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14270
+penny_rank: 7928
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.09'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=13185
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lava+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lava+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lava+Axe
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2970?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lava+Axe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15642?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

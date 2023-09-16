@@ -1,0 +1,112 @@
+---
+object: card
+id: 31abc4a5-25b5-4f05-9278-a557fb268114
+oracle_id: 4c0384d6-21cb-4645-b7a4-3af133e8a9a8
+multiverse_ids: []
+tcgplayer_id: 2988
+name: Mawcor
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/31abc4a5-25b5-4f05-9278-a557fb268114
+scryfall_uri: https://scryfall.com/card/7ed/87%E2%98%85/mawcor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.jpg?1675830212
+  normal: https://cards.scryfall.io/normal/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.jpg?1675830212
+  large: https://cards.scryfall.io/large/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.jpg?1675830212
+  png: https://cards.scryfall.io/png/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.png?1675830212
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.jpg?1675830212
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/31abc4a5-25b5-4f05-9278-a557fb268114.jpg?1675830212
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Creature — Beast
+oracle_text: |-
+  Flying
+  {T}: Mawcor deals 1 damage to any target.
+power: '3'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/31abc4a5-25b5-4f05-9278-a557fb268114/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4c0384d6-21cb-4645-b7a4-3af133e8a9a8&unique=prints
+collector_number: 87★
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: Neither head holds a brain—that's located somewhere in the chest—but
+  four eyes aim much better than two.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: ede63ba3-b177-4b0b-a7d2-1dd98ab8cdb4
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21464
+penny_rank: 14826
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mawcor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mawcor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mawcor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2988?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mawcor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mawcor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,111 @@
+---
+object: card
+id: 90583dcc-6e0e-45e6-9209-8ad3a6c94555
+oracle_id: 85308fb8-e5a1-4ff1-8606-283cf2056895
+multiverse_ids:
+- 15856
+mtgo_id: 15736
+mtgo_foil_id: 15737
+tcgplayer_id: 3020
+cardmarket_id: 3072
+name: Patagia Golem
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/90583dcc-6e0e-45e6-9209-8ad3a6c94555
+scryfall_uri: https://scryfall.com/card/7ed/310/patagia-golem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.jpg?1562242730
+  normal: https://cards.scryfall.io/normal/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.jpg?1562242730
+  large: https://cards.scryfall.io/large/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.jpg?1562242730
+  png: https://cards.scryfall.io/png/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.png?1562242730
+  art_crop: https://cards.scryfall.io/art_crop/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.jpg?1562242730
+  border_crop: https://cards.scryfall.io/border_crop/front/9/0/90583dcc-6e0e-45e6-9209-8ad3a6c94555.jpg?1562242730
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact Creature — Golem
+oracle_text: "{3}: Patagia Golem gains flying until end of turn."
+power: '2'
+toughness: '3'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/90583dcc-6e0e-45e6-9209-8ad3a6c94555/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A85308fb8-e5a1-4ff1-8606-283cf2056895&unique=prints
+collector_number: '310'
+digital: false
+rarity: uncommon
+flavor_text: Its wings were only designed to be ornamental, but it learned to use
+  them on its own.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 5ee38453-235d-487a-8cb6-462878120430
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24166
+penny_rank: 12047
+prices:
+  usd: '0.08'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15856
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Patagia+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Patagia+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Patagia+Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3020?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Patagia+Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/15736?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

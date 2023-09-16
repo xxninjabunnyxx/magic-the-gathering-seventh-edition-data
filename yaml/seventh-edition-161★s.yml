@@ -1,0 +1,115 @@
+---
+object: card
+id: 6be514ca-dd8a-4b84-9125-03a0bf8a047d
+oracle_id: e0fefaf0-da20-4d58-8db7-019dba16c780
+multiverse_ids: []
+tcgplayer_id: 3064
+name: Scathe Zombies
+lang: zhs
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/6be514ca-dd8a-4b84-9125-03a0bf8a047d
+scryfall_uri: https://scryfall.com/card/7ed/161%E2%98%85s/zhs/scathe-zombies?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.jpg?1692184115
+  normal: https://cards.scryfall.io/normal/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.jpg?1692184115
+  large: https://cards.scryfall.io/large/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.jpg?1692184115
+  png: https://cards.scryfall.io/png/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.png?1692184115
+  art_crop: https://cards.scryfall.io/art_crop/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.jpg?1692184115
+  border_crop: https://cards.scryfall.io/border_crop/front/6/b/6be514ca-dd8a-4b84-9125-03a0bf8a047d.jpg?1692184115
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Zombie
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6be514ca-dd8a-4b84-9125-03a0bf8a047d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae0fefaf0-da20-4d58-8db7-019dba16c780&unique=prints
+collector_number: 161★s
+digital: false
+rarity: common
+flavor_text: |-
+  "They groaned, they stirred, they all uprose,
+  Nor spake, nor moved their eyes;
+  It had been strange, even in a dream,
+  To have seen those dead men rise."
+  —Samuel Taylor Coleridge,
+  "The Rime of the Ancient Mariner"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Howe
+artist_ids:
+- 040fab39-e3db-4d09-9b2d-214a4e40c6fa
+illustration_id: 399a2037-5016-421b-8c72-79b6ee0b0df6
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- schinesealtart
+edhrec_rank: 23805
+penny_rank: 12408
+prices:
+  usd: 
+  usd_foil: '4.86'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scathe+Zombies&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scathe+Zombies&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scathe+Zombies
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3064?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scathe+Zombies&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scathe+Zombies&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

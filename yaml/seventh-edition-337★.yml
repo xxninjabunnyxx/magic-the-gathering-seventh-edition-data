@@ -1,0 +1,104 @@
+---
+object: card
+id: 16328444-5657-4f35-99c5-340d61472770
+oracle_id: a3fb7228-e76b-4e96-a40e-20b5fed75685
+multiverse_ids: []
+tcgplayer_id: 18336
+name: Mountain
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/16328444-5657-4f35-99c5-340d61472770
+scryfall_uri: https://scryfall.com/card/7ed/337%E2%98%85/mountain?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/6/16328444-5657-4f35-99c5-340d61472770.jpg?1675830553
+  normal: https://cards.scryfall.io/normal/front/1/6/16328444-5657-4f35-99c5-340d61472770.jpg?1675830553
+  large: https://cards.scryfall.io/large/front/1/6/16328444-5657-4f35-99c5-340d61472770.jpg?1675830553
+  png: https://cards.scryfall.io/png/front/1/6/16328444-5657-4f35-99c5-340d61472770.png?1675830553
+  art_crop: https://cards.scryfall.io/art_crop/front/1/6/16328444-5657-4f35-99c5-340d61472770.jpg?1675830553
+  border_crop: https://cards.scryfall.io/border_crop/front/1/6/16328444-5657-4f35-99c5-340d61472770.jpg?1675830553
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Mountain
+oracle_text: "({T}: Add {R}.)"
+colors: []
+color_identity:
+- R
+keywords: []
+produced_mana:
+- R
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/16328444-5657-4f35-99c5-340d61472770/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints
+collector_number: 337★
+digital: false
+rarity: common
+watermark: wotc
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. J. Cleland-Hura
+artist_ids:
+- 87d21070-2432-4167-8aab-5968af1c14f3
+illustration_id: f4416054-2999-4655-8b85-1633eb2ca550
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: '8.60'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mountain
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/18336?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

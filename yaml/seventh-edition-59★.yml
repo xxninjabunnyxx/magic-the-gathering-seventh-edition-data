@@ -1,0 +1,110 @@
+---
+object: card
+id: edfe6027-1e97-45b1-949b-73e6cf25bc82
+oracle_id: 95a2802a-2621-40c3-84f8-51e8aad7b6f0
+multiverse_ids: []
+tcgplayer_id: 2817
+name: Ancestral Memories
+lang: en
+released_at: '2001-04-11'
+uri: https://api.scryfall.com/cards/edfe6027-1e97-45b1-949b-73e6cf25bc82
+scryfall_uri: https://scryfall.com/card/7ed/59%E2%98%85/ancestral-memories?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.jpg?1675830170
+  normal: https://cards.scryfall.io/normal/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.jpg?1675830170
+  large: https://cards.scryfall.io/large/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.jpg?1675830170
+  png: https://cards.scryfall.io/png/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.png?1675830170
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.jpg?1675830170
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/edfe6027-1e97-45b1-949b-73e6cf25bc82.jpg?1675830170
+mana_cost: "{2}{U}{U}{U}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Look at the top seven cards of your library. Put two of them into your
+  hand and the rest into your graveyard.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set: 7ed
+set_name: Seventh Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/edfe6027-1e97-45b1-949b-73e6cf25bc82/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95a2802a-2621-40c3-84f8-51e8aad7b6f0&unique=prints
+collector_number: 59★
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: |-
+  "It's a poor sort of memory that only works backwards."
+  —Lewis Carroll,
+  *Through the Looking Glass*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: 937fe88b-ed08-4ad0-a330-47aad387f26b
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19326
+penny_rank: 5840
+prices:
+  usd: 
+  usd_foil: '49.00'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ancestral+Memories&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ancestral+Memories&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ancestral+Memories
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/2817?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ancestral+Memories&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ancestral+Memories&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
